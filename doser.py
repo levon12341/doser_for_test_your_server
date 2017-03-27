@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+#for habrahabr
 import requests
 import webbrowser
 
