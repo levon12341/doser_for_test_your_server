@@ -13,13 +13,13 @@ while True:
 	except:
 		print("Request didn't connect to server. It means:\n 1)if error=404 it means that server have successfully failed.")
 		input()
-		print("2)if error=403 it means that server with sequrity and your ip was baned. Sorry.")
+		print("2)if error=403 it means that server have banned your ip.")
 		input()
-		print("do you want to check what mean?[y/n]")
+		print("do you want to check it?[y/n]")
 		d=input()
 		if(d=='y'):
 			webbrowser.open(url)
 		else:
-			print('good bye my dear friend...')
+			print('Good bye my dear friend...')
 		break
 	i+=1
