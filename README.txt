@@ -1,1 +1,1 @@
-This program was writed on python3. It is a small doser, with it you can check your server.
+This program was written with python3. It is a small doser, which can help you test your server loadability.
